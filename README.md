@@ -42,7 +42,7 @@ plt.scatter(df['X'],df['Y'])
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.plot(X_train,lr.predict(X_train),color='red')
-
+```
 ## Output:
 ![WhatsApp Image 2024-02-23 at 8 26 50 PM](https://github.com/sasirath13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568449/cce14450-9ba8-4886-b728-f1f6798da18c)
 
